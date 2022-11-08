@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# adonis js v5 build ouput
+build
